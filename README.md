@@ -50,6 +50,8 @@ AWS • GCP • MySQL • Git • GitHub • Roboflow • CVAT
 - Cloud experience with AWS and GCP
 - Model deployment and real-time inference systems
 - Git-based development workflow
+  
+---
 
 ## Projects
 
