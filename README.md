@@ -77,6 +77,15 @@ Worked on video-based processing pipelines for object tracking, frame analysis, 
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangeetaupadhye&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetaupadhye&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangeetaupadhye&show_icons=true&theme=default" />
 </p>
 
