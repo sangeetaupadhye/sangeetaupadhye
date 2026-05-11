@@ -42,6 +42,15 @@ AWS • GCP • MySQL • Git • GitHub • Roboflow • CVAT
 
 ---
 
+### Development & Deployment
+
+- Backend development using Django, Flask, and FastAPI
+- REST API development and integration
+- Database handling with MySQL
+- Cloud experience with AWS and GCP
+- Model deployment and real-time inference systems
+- Git-based development workflow
+
 ## Projects
 
 ### 🐄 Cattle Valuation Automation
