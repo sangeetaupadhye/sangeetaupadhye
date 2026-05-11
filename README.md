@@ -84,18 +84,10 @@ Worked on video-based processing pipelines for object tracking, frame analysis, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetaupadhye&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeetaupadhye&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetaupadhye&layout=compact&theme=default" />
-</p>
-
 ---
 
 ## Connect
 
-📧 [yourmail@gmail.com](mailto:upadhyesangeeta057@gmail.com)
-💼 [LinkedIn Profile Link](https://www.linkedin.com/in/sangeeta-upadhye/)
+* Email: [upadhyesangeeta057@gmail.com](mailto:upadhyesangeeta057@gmail.com)
+* LinkedIn: [https://linkedin.com/in/sangeeta-upadhye](https://www.linkedin.com/in/sangeeta-upadhye/)
+
